@@ -2,7 +2,7 @@
 ### SC, Brazil   
 ### 18 year old   
 ### Currently majoring in Computer Science :computer: :mortar_board:   
-### I love to learn new things and everything related to science :electron: :telescope:  
+### I love everything related to science :electron: :telescope:  
 ### Experience with JavaScript, HTML, CSS, C#, Java and C  
 ### amyr.allan@hotmail.com  
 ## And remember:  
