@@ -1,6 +1,6 @@
 # Hey, what's up? My name is Amyr!  
 ### SC, Brazil   
-### 19 year old   
+### 20 year old   
 ### Currently majoring in Computer Science :computer: :mortar_board:   
 ### I love everything related to science :electron: :telescope:  
 ### Experience with JavaScript, HTML, CSS, Haskell, Java and C
