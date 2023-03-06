@@ -4,6 +4,6 @@
 ### Currently majoring in Computer Science at UDESC :computer: :mortar_board:   
 ### I love everything related to science :electron: :telescope:  
 ### Experience with JavaScript, HTML, CSS, Haskell, Java, C and Python
-### amyr.allan@hotmail.com & amyr.allan1@gmail.com
+### My emails: amyr.allan@hotmail.com & amyr.allan1@gmail.com
 
 
