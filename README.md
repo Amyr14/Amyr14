@@ -1,5 +1,5 @@
 # About
-My name is Amyr Allan, I'm a CS undergrad at UDESC (Universidade do Estado de Santa Catarina). I have interests in open-source software, backend engineering, machine learning and image processing.
+My name is Amyr Allan, I'm a CS undergrad at UDESC (Santa Catarina State University). I have interests in open-source software, backend engineering, machine learning and image processing.
 # Experience
 * Gave python classes for the extension group COLMEIA (09/2022 to 02/2023)
 * Was a Data Structures teaching assistant (02/2023 to 08/2023)
