@@ -1,5 +1,5 @@
 # About
-My name is Amyr Allan, I'm a CS undergrad at UDESC (Santa Catarina State University). I have interests in open-source software, backend engineering and image processing.
+My name is Amyr Allan, I'm a CS undergrad at UDESC (Santa Catarina State University). I have interests in open-source software, back-end engineering and image processing.
 # Experience
 * Did web scraping for the CERES-UTFPR extension project
 * Gave python classes for the extension group COLMEIA (09/2022 to 02/2023)
