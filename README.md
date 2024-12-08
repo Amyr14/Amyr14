@@ -1,5 +1,5 @@
 # About
-My name is Amyr Allan, I'm a CS undergrad at UDESC (Santa Catarina State University). My areas of interest are formal languages (automatas, compilers), image processing and computer graphics, but I have no prejudice with other computer science fields and I enjoy studying all of them. 
+My name is Amyr Allan, I'm a CS undergrad at UDESC (Santa Catarina's State University). My areas of interest are formal languages (automatas, compilers), image processing and computer graphics, but I hold no prejudice with other computer science fields and I enjoy studying and learning about all of them. 
 I take joy in learning new things and starting new and exciting projects. If you have an interesting idea and you want a hand, feel free to contact me by email or linkedIn! 
 # Experience
 * Did web scraping for the CERES extension project at UTFPR (06/2020 to 09/2020)
