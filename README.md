@@ -9,5 +9,3 @@ I take joy in learning new things and starting new and exciting projects. If you
 # Contact
  * :email: amyr.allan@hotmail.com
  * :link: linkedin.com/in/amyr-allan-7519881b0/
-# Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amyr14&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
