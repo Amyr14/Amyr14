@@ -1,5 +1,5 @@
 # About
-My name is Amyr Allan, I'm a CS undergrad at UDESC (Santa Catarina's State University). My areas of interest are formal languages (automatas, compilers) and computer vision, but I hold no prejudice with other computer science fields and I enjoy studying and learning about all of them. 
+My name is Amyr Allan, I'm a CS undergrad at UDESC (Santa Catarina's State University). My areas of interest are formal languages and software verification and validation, but I hold no prejudice with other computer science fields and I enjoy studying and learning about all of them. 
 I take joy in learning new things and starting new and exciting projects. If you have an interesting idea and you want a hand, feel free to contact me by email or linkedIn! 
 # Experience
 * Python teacher for the extension group COLMEIA at UDESC (09/2022 to 02/2023)
